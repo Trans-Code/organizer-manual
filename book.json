@@ -4,11 +4,11 @@
         ],
     "pluginsConfig": {
         "rss": {
-            "title": "Django Girls Organizers Manual",
-            "description": "Guidelines and tips to organize an awesome Django Girls event.",
-            "author": "Django Girls",
-            "site_url": "http://organize.djangogirls.org/",
-            "feed_url": "http://organize.djangogirls.org/rss"
+            "title": "Trans*Code Organizers Manual",
+            "description": "Guidelines and tips to organize an awesome Trans*Code event.",
+            "author": "Trans*Code",
+            "site_url": "http:///",
+            "feed_url": "http://"
     }
   },
   
