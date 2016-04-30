@@ -1,24 +1,24 @@
-# Django Girls Organizer's Manual
+# Trans*Code Organizer's Manual
 
-If you are reading this, it means you are interested in organizing your own Django Girls event. That's awesome!
+If you are reading this, it means you are interested in organizing your own Trans*Code event. That's awesome!
 
-In this manual we are going to explain to you how Django Girls works, what you need to do and how to get started. So... let's get into details:
+In this manual we are going to explain to you how Trans*Code works, what you need to do and how to get started. So... let's get into details:
 
-## What is Django Girls?
+## What is Trans*Code?
 
-Django Girls is an initiative that is aimed at introducing women who have never coded before to the world of technology and increasing the diversity within the industry.
+Trans*Code is an initiative that is aimed at bring trans folk and allies together to build community and explore technology.
 
-We do that by organizing workshops and inviting women to join us to learn how to build the internet using HTML, CSS, Python and Django in a safe, friendly, inclusive environment.
+We do that by organizing hackdays and inviting trans folk and allies to come together to explore technical solutions to trans-related issues in a safe, friendly, inclusive environment.
 
-Our mission is to bring more women into the tech field by making technology more approachable, simpler and friendlier. We provide tools, resources and a community that makes it easier to learn about technology.
+Our mission is to .
 
 ## The Basics
 
-### What is a Django Girls event?
+### What is a Trans*Code event?
 
-A Django Girls event is a one-day workshop with an installation party the evening before or remotely via Google Hangout/Skype. During the whole day participants work in small groups (3 attendees + 1 coach) and go through the tutorial to successfully create a blog application and deploy it to the internet.
+A Trans*Code event is a one-day hackday....
 
-Django Girls events are always non-profit and free for participants. We do not pay coaches, speakers or organizers. Attendees don't need any previous knowledge about programming and there is no age limitation. All the attendees need is a laptop and some curiosity.
+Trans*Code events are always non-profit and free for participants. We do not pay coaches, speakers or organizers. Attendees don't need any previous knowledge about programming and there is no age limitation. All the attendees need is a laptop and some curiosity.
 
 ### Philosophy
 
@@ -26,18 +26,17 @@ Django Girls events are always non-profit and free for participants. We do not p
 - __Everyone can do it__. Technology is for people and everyone can be a creator. Show the bigger picture and encourage attendees to try new things.
 - __It's all about the people__. People are the core of what we do. We create events that we would want to attend ourselves. Think about your attendees' experience, help them, be welcoming and make sure no one is lost. Be helpful and proactive. Smile, ask questions, make them feel awesome.
 
-### Using the Django Girls name
+### Using the Trans*Code name
 
-To use the Django Girls name for your workshop, you need to follow these steps:
+To use the Trans*Code name for your workshop, you need to follow these steps:
 * read this manual
-* apply to organize an event [here](http://djangogirls.org/organize/)
+* apply to organize an event by emailing info@trans-code.org
 * wait for our response
-* we will create a website and e-mail account in our domain
 * you can start!
 
-It is very important for us to know about all events that use the Django Girls name. __Please make sure not to use it, unless you contacted us__. 
+It is very important for us to know about all events that use the Trans*Code name. __Please make sure not to use it, unless you contacted us__. 
 
 ## Ready?
 
-Learn what it takes to organize a Django Girls event.
+Learn what it takes to organize a Trans*Code event.
 
