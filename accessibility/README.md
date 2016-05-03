@@ -1,6 +1,6 @@
 # Accessibility 
 
-We want to make all Django Girls events as accessible as possible. Making your
+We want to make all Trans*Code events as accessible as possible. Making your
 event accessible will help everyone, not just attendees with disabilities. This 
 page can be daunting because we are trying to be comprehensive, but read through 
 it and do your best! 
@@ -44,14 +44,14 @@ for folks who have allergies, asthma, or are prone to migraines.
 
 ### Blind or low vision attendees 
 
-To welcome attendees with blind or low vision, first speak to your coaches. Someone coaching an 
+To welcome attendees with blind or low vision, first speak to your volunteers. Someone coaching an 
 attendee with low vision should first and foremost be flexible. An attendee with low vision
 may already have a screen reader set up on their machine that they are used to, so
 the installation party is a great opportunity for a coach to get to know this attendee's setup. 
 
 Not all attendees who have low vision are blind, so make sure that any presenters giving lightning 
 talks are using a large font on their screen. (Remember that code in particular can be hard to read 
-on a PowerPoint.) Ask your presenters to prepare handouts in a large font. (If your coaches are giving talks, ask them to give you a digital file in advance so you can make copies beforehand; ideally, coaches shouldn't be out money to participate in your workshop!) Ask your 
+on a PowerPoint.) Ask your presenters to prepare handouts in a large font. (If your volunteers are giving talks, ask them to give you a digital file in advance so you can make copies beforehand; ideally, volunteers shouldn't be out money to participate in your workshop!) Ask your 
 presenters to also remember to verbally describe any images that are in their presentations. 
 
 Make sure the web site and materials you prepare for the workshop pass the [Web AIM Contrast Checker](http://webaim.org/resources/contrastchecker/). 
@@ -60,13 +60,13 @@ know if your contrast is sufficient.
 
 Code in particular can be hard to see for anybody. The font tends to be small and not double-spaced, 
 so if you're doing any demonstrations on a large screen, make sure your font is very large. Finding 
-where to enlarge the type on the command line or in a text editor can also be hard, so have your coaches
+where to enlarge the type on the command line or in a text editor can also be hard, so have your volunteers
 walk your attendees through that. It will make it easier for them to read and debug. 
 
 ### Hard of hearing or Deaf attendees
 
 Again, working with attendees who are hard of hearing will go best with a flexible coach. Speak to your 
-coaches about using text-based communication (chat, whiteboard) during the tutorial for attendees who are Deaf or hard of hearing. Remind coaches to look at their attendees when speaking to them, as there may 
+volunteers about using text-based communication (chat, whiteboard) during the tutorial for attendees who are Deaf or hard of hearing. Remind volunteers to look at their attendees when speaking to them, as there may 
 be people who read lips. Also, find out if any of your attendees will be bringing interpreters; you 
 will want to provide them with food and a space to sit!
 
@@ -80,12 +80,12 @@ workshop is in) is not their first language can all benefit from these tips.
 ### Web site and application 
 
 Don't make your attendees ask which accommodations you're able to provide. Be up front about what you're 
-able to do! This will encourage people who need those accommodations to apply, since they will be 
+able to do! This will encourage people who need those accommodations to attend, since they will be 
 confident that they can participate in your event. Being specific with your list of accommodations 
 will show potential attendees that you're working to create a space where access and inclusivity are 
 priorities. You can just add these as questions in your FAQ section. See [this event](http://djangogirls.org/portland) for some suggestions. 
 
-Ask for suggestions from your coaches and attendees on other things you might want to provide. For example, 
+Ask for suggestions from your volunteers and attendees on other things you might want to provide. For example, 
 maybe you can find a friend to volunteer time for child care. 
 
 ### Other resources
