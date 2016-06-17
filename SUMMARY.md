@@ -8,4 +8,5 @@
 * [Web site](website/README.md)
 * [Logistics](logistics/README.md)
 * [Accessibility](accessibility/README.md)
+* [Conferences](conferences/README.md)
 
