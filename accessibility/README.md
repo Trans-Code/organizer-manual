@@ -3,7 +3,7 @@
 We want to make all Trans*Code events as accessible as possible. Making your
 event accessible will help everyone, not just attendees with disabilities. This 
 page can be daunting because we are trying to be comprehensive, but read through 
-it and do your best! 
+it and do your best!
 
 Depending on your venue, you might not be able to do all of these things. But if you 
 think about accessibility from the time you decide to organize an event, you
