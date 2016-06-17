@@ -8,11 +8,11 @@ While Trans\*Code is a hack day and that suggests the ability to code, the event
 
 Typically Trans*Code events have been free, keeping in mind that many trans folk are unemployed or under-employed. Eventbrite has worked well for tracking registration.
 
-. Mentor Registration
+## Mentor Registration
 
 In the past it has worked well to offer about 20% of the regular attendee tickets as "mentor" tickets. Quite often cisgender allies seem to be more comfortable attending a trans themed event if they are specifically marked as "mentors" rather than participants. In fact, we encourage mentors to choose one particular group and embed themselves so there is little practical difference between a mentor and a participant.
 
-. Capacity and Waiting lists
+## Capacity and Waiting lists
 
 You will probably have an upper limit on capacity based on the venue size. You will also need to have some limit for planning food. It's sually okay to limit the number of tickets at 10% over the maximum capacity, since it's like that at least that number will not show up on the day of the event. In fact, attendance rates can vary quite a bit, from about 50% on up to 80% or 90%.
 
