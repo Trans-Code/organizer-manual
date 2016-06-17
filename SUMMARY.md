@@ -7,4 +7,5 @@
 * [Promotion](promotion/README.md)
 * [Web site](website/README.md)
 * [Logistics](logistics/README.md)
+* [Accessibility](accessibility/README.me)
 
