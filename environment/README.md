@@ -1,18 +1,13 @@
 # Environment
 
-The goal of Django Girls is not only to teach people about programming, but to __do it in a friendly and positive environment.__
+The goal of Trans*Code is not only to teach people about programming, but to __do it in a safe, positive, and trans centered environment.__
 
-Django Girls events are inclusive, friendly and safe environments. Girls, women, ladies, gals and even men are allowed in. More than semantics we’re interested in a mindset.
+Trans*Code events are inclusive, friendly and safe environments. Everyone is welcomed, just as they are with no judgements based on sex, sexuality, gender, or gender identity and expression.
 
-## Positive atmosphere
-
-Django Girls events are welcoming for everyone. We want to spend a great day surrounded by fantastic people and have lots of fun together. We're not very serious people.
-
-Do selfies or Friday Hugs. Let people know that they're doing a great job and are awesome. Make friends.
 
 ## Code of Conduct
 
-Each event has to follow and enforce our [Code of Conduct](https://djangogirls.org/pages/coc/). The CoC is a set of rules that aim to provide inclusive environment for people of different genders, colors, religion or else.
+Each event has to follow and enforce our [Code of Conduct](http://trans.tech/code-of-conduct/). The CoC is a set of rules that aim to provide inclusive environment for people of different genders, colors, religion or else.
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, should not be tolerated.
 
