@@ -1,58 +1,54 @@
 # Step by Step
 
-Before we get into the details, let's have a look at the bigger picture of organizing a Django Girls event.
+Before we get into the details, let's have a look at the bigger picture of organizing a Trans*Code event.
 
-You should start organizing at least 3 months before the event will take place. It gives you a safe amount of time to make sure everything runs smoothly. Of course, the actual amount of work could be fitted into 40-50 hours of total work, so if you spread that over a 3 month period, you can totally do it in your free time.
+You should start organizing at least 3 months before the event will take place. It gives you a safe amount of time to make sure everything runs smoothly and more important, to get the word out to people who might want to attend.
 
-Organizing an event with a team is awesome but not mandatory. Don't forget to set a few rules on how you'll work together to avoid misunderstanding.
+The actual amount of work will be around 20-30 hours, so if you spread that over a 3 month period, you can totally do it in your free time. Organizing an event with a team is awesome but not mandatory. If you do have a team, it's a good idea to set a few rules on how you'll work together to avoid misunderstanding.
 
-We've created a [Trello board](https://trello.com/b/xBRRgQRr/django-girls-template) that you can clone; hopefully this will help you keep straight everything you need to take care of while planning your event! To use the Trello board, follow these instructions: 
+We've created a [Trello board]https://trello.com/b/el8DHMGt/trans-code-template) that you can clone; hopefully this will help you keep straight everything you need to take care of while planning your event! To use the Trello board, follow these instructions: 
 
 1. Click "Show Menu" on the right-hand side 
 2. Under the Menu, click "More" 
-3. Select "Copy Board" and give your board a title. We suggest, "Django Girls [Your City]." Change the organization to "none." Click "Create."
+3. Select "Copy Board" and give your board a title. We suggest, "Trans*Code [Your City]." Change the organization to "none." Click "Create."
 4. You're now on your board! You can invite your other organizers, add notes to existing cards, add cards specific to your event, and start using your board! 
 
 Take a look at [Getting Started with Trello](http://help.trello.com/article/899-getting-started-video-demo) if you're not familiar with this project management tool. 
 
-If you're working with a team, we strongly recommend you to read this awesome [blog post](http://blog.djangogirls.org/post/138915381173/a-toolkit-of-awesome-tips-tricks-from-seasoned) made by Django Girls Budapest team. It's full of precious tips to keep your group organized.
+If you're working with a team, we strongly recommend you to read this awesome [blog post](http://blog.djangogirls.org/post/138915381173/a-toolkit-of-awesome-tips-tricks-from-seasoned) made by the Django Girls Budapest team. It's full of precious tips to keep your group organized.
 
-Let's see how organizing a Django Girls event looks on the timeline:
+Let's see how organizing a Trans*Code event looks on the timeline:
 
 ### 3 months before
 
-- __Apply to the Django Girls organization to register your event__
+- __Apply to the Trans*Code organization to register your event__
 - Announce a [website](../website/README.md), [Twitter or Facebook](../promotion/README.md)
-- [Start promotion of Django Girls](../promotion/README.md)
+- [Start promotion of Trans*Code](../promotion/README.md)
 - [Start looking for sponsors](../sponsors/README.md)
 - [Start looking for a venue](../logistics/README.md)
-- [Start looking for coaches](../coaches/README.md)
 
 ### 2 months before
 
-- [Announce the application process for attendees](../attendees/README.md)
 - [Reach out to local press, universities, etc. to actively promote the event](../promotion/README.md)
-- [Have a team of coaches ready](../coaches/README.md)
 - Secure a venue
 - Start looking for catering
 - [Still look for sponsors](../sponsors/README.md)
 
 ### 1 months before
 
-- Announce your coaches on your website
-- [Choose attendees and inform them](../attendees/README.md#how-to-choose-attendees)
-- Organize a dinner/meeting for your coaches and make sure they read the [Coach's manual](http://coach.djangogirls.org/) and are familiar with the [Tutorial](../tutorial/README.md).
-- Make sure attendees confirmed their attendance
 - [Make sure all the logistics are figured out](../logistics/README.md)
 
-### 1 week before
+### 1-2 weeks before
 
-- Confirm with attendees one last time that they are still planning to attend the event! Make some last minute replacements if someone cancels.
-- Send an email to your coaches so they can meet their group. If you can't do the installation party the evening before the event, invite your coach to do it online with their group following those [instructions](http://tutorial.djangogirls.org/en/installation/index.html). It's really important that attendees' computers are ready for the workshop! 
+- Send an email to attendees reminding them of the event, letting them know of any special features or requirements. 
+
+### 2-3 days before
+
+- Send an email to attendees reminding them of the event, letting them know of any last minute features or requirements. 
 
 ### After the event
 
-- Follow up with global Django Girls and let us know how it went! [Here are some ideas](../after_the_event/README.md).
+- Follow up with global Trans*Code and let us know how it went! [Here are some ideas](../after_the_event/README.md).
 - __Be proud of yourself <3__
 
 All of this is further explained in the chapters on the left, but this is the bigger picture.
