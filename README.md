@@ -43,7 +43,7 @@ To use the Trans*Code name for your workshop, you need to follow these steps:
 * wait for our response
 * you can start!
 
-It is very important for us to know about all events that use the Trans*Code name. __Please only use the Trans\*Code name if you have contacted us and have approval__. 
+It is very important for us to know about all events that use the Trans*Code name. __Please only use the Trans-Code name if you have contacted us and have approval__. 
 
 ## Ready?
 
