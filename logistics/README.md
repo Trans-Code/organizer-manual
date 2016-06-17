@@ -1,12 +1,12 @@
 # Logistics
 
-There are several things that are important to remember when organizing a Django Girls event. We won't try to explain everything in the smallest detail, but we will elaborate on some of most important things:
+There are several things that are important to remember when organizing a Trans*Code event. We won't try to explain everything in the smallest detail, but we will elaborate on some of most important things:
 
 ## Venue
 
 General rule about the venue: very often, you can get a space for free. Your targets are: big coworking spaces, hackerspaces, makerspaces, universities, local companies, and startups. These are the places that may be willing to offer you space for free (especially during weekends).
 
-The setup should allow you to sit everyone comfortably in small groups (teams of 3 + 1 coach). The best setup is just square tables (or two tables put together) with 4 chairs around them.
+The setup should allow you to sit everyone comfortably in small (3-10 people) groups. 
 
 ### Power cords
 
@@ -14,19 +14,15 @@ Remember that everyone will need power! Often the venue can offer you this, but 
 
 ### Internet
 
-Internet is crucial, so ask your venue provider if they have tested the WiFi before. Be prepared for some problems, so have all the material (tutorial, bootstrap, csses) downloaded and saved on a couple of pendrives. You can use this [script](https://pypi.python.org/pypi/djangogirls_usbgenerator/) to download everything you need.
+Internet is crucial, so ask your venue provider if they have tested the WiFi before. 
 
 It is possible that the venue will claim they can handle Internet traffic, but during the workshop it turns out they can't. It's a good idea to ask if they have previously hosted programming workshops for 100+ people. 
 
-It's also a good idea to have some backup mobile internet and to create a hotspot for attendees if internet is not working properly. Make sure to check - especially during the installation part - if there are problems with the Internet.
-
-### Decorations
-
-Good atmosphere and a friendly experience is extremely important, so if your budget is big enough, don't think twice about [printing some posters](../resources/README.md), buying fresh flowers or bringing nice tablecloths. These small little things can go a long way toward making a better experience for everyone. We all like nice things, right?
+Depending on your confidence in the network, it might also be a good idea to have some backup mobile internet and to create a hotspot for attendees if internet is not working properly. Make sure to check if there are problems with the Internet.
 
 ## Food
 
-If your budget doesn't allow for this, don't worry too much. It's a free event, and people will be grateful to you anyway. Lunch is the most important meal, because you'll want to keep people energized and don't want to provide too much distraction.
+Ideally, the venue for the event will also supply food. If they don't/can't you can look for other sponseIf your budget doesn't allow for this, don't worry too much. It's a free event, and people will be grateful to you anyway. Lunch is the most important meal, because you'll want to keep people energized and don't want to provide too much distraction.
 
 But if you can, it's awesome to do this:
 
@@ -52,24 +48,11 @@ There are a few small, cheap practical items that are really useful to have:
  * Scissors, string, sticky tape / blu-tack for hanging posters, bunting etc.
  * Spare pens and paper for drawing diagrams or making notes.
  * Tissues to wipe up spills, or in case the bathrooms run out
- * Sanitary products for the bathroom are a thoughtful touch and may be appreciated!
  * Garbage bags - there will be mess to tidy up!
 
 ## Goodies
 
 This is only if you have the budget. 
-
-### Temporary tattoos!
-
-This is so far the most fun and most affordable way to do something nice at your event. You only need to buy [Temporary Tattoo Paper](http://www.amazon.com/Silhouette-MEDIA-TATTOO-Temporary-Tattoo-Paper/dp/B0043WJ3OA/), print [our ready-to-go designs](https://github.com/DjangoGirls/resources/tree/master/Design/Tattoos) on your home printer, cut them out and you're good to go! You can get a lot of tattoos for just a couple of bucks.
-
-### T-shirts for coaches
-
-Order t-shirts for your coaches as a thank-you gift, but wearing the t-shirts also makes your coaches more visible in the venue. You can find t-shirt designs on our [resources page](../resources/README.md).
-
-### Tote bags
-
-We like tote bags, right? They are pretty cheap to print and it's a nice gift for your attendees that will remind them about the event later on. 
 
 ### Stickers
 
@@ -85,8 +68,6 @@ If you found an awesome design (picture, font, drawing, etc) you would love to u
 
 This is really nice to have, and sometimes you can get this kind of service for free if you have friends/friendly local people who want to support your initiative. Your venue might have a marketing department that could donate the time of their in-house photographer, so be sure to ask! It's a great memory to have some nice, professional photos or a video from the event. It also helps to use it as marketing material for your next event, plus you have something to show to the sponsors!
 
-Don't forget to ask attendees and coaches if they want their picture taken. If you can, create two badges: one for those who want to be in the pictures, one for those who don't.
+Don't forget to ask attendees and coaches if they want their picture taken. Be sure to have some way of indicatingthose who want to be in the pictures, and those who don't. One simple way is to get some sticker dots to place on the name tags - a red dot can indicate that someone does not want their picture taken.
 
 If you have resources (money/people), then totally do it. It's worth it! 
-
-You can also add your event's photos to our [Django Girls albums](https://www.flickr.com/photos/128162583@N08/sets). Make sure to provide us information about __a licence of the photo__ - will anyone else be able to use them? For example, other Django Girls organizers? If the photos/video can be used - on what terms?
