@@ -1,4 +1,4 @@
-# Trans*Code Organizer's Manual
+# Trans*Code Organiser's Manual
 
 If you are reading this, it means you are interested in organizing your own Trans*Code event. That's awesome!
 
@@ -6,7 +6,7 @@ This manual will give you an idea of how Trans*Code works, what you need to do, 
 
 ## What is Trans*Code?
 
-Trans*Code is a hackday series aimed at bringing trans folk and allies together to build community and explore technological solutions to trans related issues.
+Trans*Code is a hackday series that brings trans folk and allies together to build community and explore technological solutions to trans related issues.
 
 
 The goals of Trans*Code are:
@@ -17,16 +17,16 @@ The goals of Trans*Code are:
 
 - create and code. We hope that participants explore ideas and technologies, and create code that they can be proud of.
 
-To achive that invite trans folk and allies to come together for a day of hacking in a safe, friendly, inclusive environment.
+To achieve those goals we invite trans folk and allies to come together for a day of hacking in a safe, friendly, and inclusive environment.
 
 
 ## The Basics
 
 ### What is a Trans*Code event?
 
-A Trans*Code event is a hackday where the projects relate to issues facing the trans community or to subjects of interest to trans people. .
+A Trans*Code event is a hackday event where people come together to work on projects that relate to the trans community.
 
-Trans*Code events are always non-profit and free for participants if at all possible. We do not pay volunteers, speakers or organizers. Attendees don't need any previous knowledge about programming and there is no age limitation. All the attendees need is some curiosity and a desire to engage with the problems.
+Trans*Code events are always non-profit and free for participants if at all possible. We do not pay volunteers, speakers or organisers. Attendees don't need any previous knowledge about programming. All the attendees need is some curiosity and a desire to engage with the problems.
 
 ### Philosophy
 
