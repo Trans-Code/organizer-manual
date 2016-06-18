@@ -20,10 +20,10 @@ Because it is not always safe or prudent for trans* people to be “out” in al
 
 #### We do NOT tolerate:
 
-* Offensive jokes of any sort. Just don’t.
-* mGender assumptions and policing: Do not assume gender. If you are unsure of someones preferred gender pronoun, address them by their name. * They might tell you and if they don’t, that is ok, too!
-* Unsolicited Touch: Everyone’s physical space must be respected at all times. No touching of other people without their consent–this includes hugs (but I am sure a lot of people would love a hug if you asked first!).
-* Bathroom Police: As part of creating a gendersafe space, Trans*Code events will always have gender neutral bathrooms.
-* Hate Speech: We do not tolerate any conversations or presentations that involve racist thinking, transphobia, homophobia, classism, and other explicit forms of ignorance.
+* __Offensive jokes of any sort.__ Just don’t.
+* __Gender assumptions and policing:__ Do not assume gender. If you are unsure of someones preferred gender pronoun, address them by their name. * They might tell you and if they don’t, that is ok, too!
+* __Unsolicited Touch:__ Everyone’s physical space must be respected at all times. No touching of other people without their consent–this includes hugs (but I am sure a lot of people would love a hug if you asked first!).
+* __Bathroom Police:__ As part of creating a gendersafe space, Trans*Code events will always have gender neutral bathrooms.
+* __Hate Speech:__ We do not tolerate any conversations or presentations that involve racist thinking, transphobia, homophobia, classism, and other explicit forms of ignorance.
 
 _This code is based on models from the Geek Feminism Wiki and Trans*H4CK._

@@ -7,7 +7,7 @@ Trans*Code events are inclusive, friendly and safe environments. Everyone is wel
 
 ## Code of Conduct
 
-Each event has to follow and enforce our [Code of Conduct](code_of_conduct/). The CoC is a set of rules that aim to provide inclusive environment for people of different genders, colors, religion or else.
+Each event has to follow and enforce our [Code of Conduct](../code_of_conduct/). The CoC is a set of rules that aim to provide inclusive environment for people of different genders, colors, religion or else.
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, should not be tolerated.
 
