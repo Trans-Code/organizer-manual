@@ -10,4 +10,5 @@
 * [Accessibility](accessibility/README.md)
 * [Conferences](conferences/README.md)
 * [After the Event](after_the_event/README.md)
+* [Code of Conduct](code_of_conduct/README.md)
 
