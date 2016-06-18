@@ -9,4 +9,5 @@
 * [Logistics](logistics/README.md)
 * [Accessibility](accessibility/README.md)
 * [Conferences](conferences/README.md)
+* [After the Event](after_the_event/README.md)
 

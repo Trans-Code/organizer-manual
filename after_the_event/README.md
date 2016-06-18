@@ -1,39 +1,24 @@
-# After the event
-
-Congratulations, you MADE IT! And we want to hear all about it :)
-
 ## After event TO DO list:
 
 #### Thank everyone
 
-Sending a little thank you note to your attendees, coaches and sponsors is important. Remember also to treat yourself with something you like to relax and decompress -- you did an amazing job! You could also send evaluation forms to the attendees and coaches in order to find out how people liked the workshop and what you can improve next time.
+Sending a little thank you note to your attendees, volunteers, and sponsors is important. Remember also to treat yourself with something you like to relax and decompress -- you did an amazing job! You could also send evaluation forms or a link to a survey form to the attendees and coaches in order to find out how people liked the workshop and what you can improve next time.
 
 Make sure to reach out to your event's sponsors, tell them about how it went and thank them once again. It is very important to let them know how their money was spent and there is no better way than writing how awesome the workshop they sponsored was.
 
-Sometimes, attendees ask for a certificate of completion: we're not a formal training program with examinations so you can't deliver official certificates. However, you can give [cute souvenir certificates](https://github.com/DjangoGirls/resources/tree/ae9756e9e82f30a333d5cfad6176d39e0cdbf594/Design/Certificates) to attendees and coaches.
+#### Inform participants where they can find the projects and each other
 
-#### Inform participants where they can look for help
+The goal of Trans\*Code is to help trans and non-binary people interested in techonology build community, so we shouldn't leave them alone after the event. Share a link to a blog post or web page listing the projects worked on. (Hint: you might even have building such a list be one of the projects of the day.) Encourage sharing social media contact information - at the end of the 2016 London Trans\*Code everyone was invited to put their Twitter handles on a white board and people took pictures of it and shared them.
 
-The goal of Django Girls is to shape future software developers, so we shouldn't leave them alone after the event. Let them know about other possibilities to learn you know of:
-- Invite them to our Gitter chat
-- Give them a list of local events and meetups
-- Create a Facebook group for your attendees and coaches. This is a good way to share learning resources, provide help and for people to keep in touch.
-- Maybe even organize a follow up meeting to meet for a coffee? :) If possible already announce the date of the follow up event at the workshop so people can get excited about the next meeting.
+### Evaluation form for participants
 
-### Evaluation form for participants and coaches
+It is important to get feedback from attendees after the workshop. What worked? What did not? What we can improve? These questions are very important and it is great to know answers before organizing the second edition, right :)?
 
-It is important to get feedback from attendees and coaches after the workshop. What worked? What did not? What we can improve? These questions are very important and it is great to know answers before organizing the second edition, right :)?
+Make sure the forms are anonymous. 
 
-Make sure the forms are anonymous. Please note that if you ask for their coaches name, the form is not so anonymous anymore.
+#### Invite your participants to our global Trans*Code mailing list
 
-#### Tell people about our "Your Django Story" interview series
-
-Please invite people to read the interviews on the [Django Girls Blog](http://blog.djangogirls.org) and also encourage people to share their own stories, whether they started working as a programmer professionally or started building little side projects at home using Django after attending the workshop. All they have to do is to ping us at story@djangogirls.org. We want to keep the interview series going for a long time and we would love to read more stories of Django Girls alumni.
-
-
-#### Invite your participants to our global Django Girls mailing list
-
-We want to build a global community of women who help each other, empower each other and support each other in learning how to code. Consider inviting all of your participants and coaches to [our Django Girls mailing list](https://groups.google.com/forum/#!forum/django-girls). [Let us know](mailto:hello@djangogirls.org) and we will give you permissions to manage the group so you can invite them via Google Group.
+We want to build a global community of trans and non-binary folk and allies who help each other, empower each other and support each other. Consider inviting all of your participants and volunteers to [our Trans*Code mailing list](https://groups.google.com/forum/?hl=en-GB#!forum/transcode-team). [Let us know](mailto:info@trans-code.org) and we will work with you to invite them via the Google Groups interface.
 
 #### Let us know how it went!
 
@@ -44,22 +29,19 @@ We can't wait to hear about your experience. It'd be great if you could share wh
 3. What was the most important thing you discovered during the workshop?
 4. How can we make Django Girls better?
 
-Just send it to us at hello@djangogirls.org :)
+Just send it to us at info@trans-code.org :)
 
-#### Share what you learn in the Django Girls Organizers group
+#### Share what you learn in the Trans*Code Team group
 
-If you want to, you can also share everything with the Django Girls Organizer group you already have access to. We're sure that other organizers will appreciate it to!
+If you want to, you can also share everything in the Trans*Code Team group you already have access to. We're sure that other organizers will appreciate it to!
 
 #### Consider writing a blog post
 
-Share with the world how awesome it was! Consider following [Warsaw](http://blog.djangogirls.org/post/103157984293/django-girls-warsaw-8th-november-2014) and [Kraków](http://blog.djangogirls.org/post/103486728303/django-girls-krakow-11th-november-2014) describing your whole event on our blog. It's a nice way to say thank you to everyone, re-live memories and show your event to the world. If you're planning on organizing another Django Girls event in the future, this will also help you to attract sponsors -- you can just send them a link to convince them that Django Girls in your city is awesome!
-
-We would be happy to publish it -- just let us know. You know where to find us :)
-
+Share with the world how awesome it was! Consider following [this retrospective](http://trans-code.org/looking-back-at-the-first-transcode/) in describing your  even, and then post either on your own blog, or let us know and we'll post it on ours. At least let us know about so we can share it as well. It's a nice way to say thank you to everyone, re-live memories and show your event to the world. If you're planning on organizing another Trans\*Code event in the future, this will also help you to attract sponsors -- you can just send them a link to convince them that Trans\*Code in your city is awesome!
 ## Next editions
 
-If you plan to organize next edition of Django Girls in your city, you will need to let us know, so that:
+If you plan to organize next edition of Trans*Code in your city, you will need to let us know, so that:
 * we know it is happening :)
-* we will setup a new website for you (with the same address) - **please do not change old website after the event** - it will cause more extra work for us and we will not have previous events listed nicely on our "Event" page. We also associate some stats after each finished event, so changing you old website will cause trouble for us.
+* we can help you plan and publicize the next event.
 
 
