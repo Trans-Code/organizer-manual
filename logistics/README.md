@@ -18,7 +18,7 @@ Internet is crucial, so ask your venue provider if they have tested the WiFi bef
 
 It is possible that the venue will claim they can handle Internet traffic, but during the workshop it turns out they can't. It's a good idea to ask if they have previously hosted programming workshops for 100+ people. 
 
-Depending on your confidence in the network, it might also be a good idea to have some backup mobile internet and to create a hotspot for attendees if internet is not working properly. Make sure to check if there are problems with the Internet.
+If you don't have confidence in the network, it might also be a good idea to have some backup. You can use mobile internet to create a hotspot for attendees if internet is not working properly. Make sure to check to see if there are problems with the Internet.
 
 ## Food
 

@@ -8,7 +8,7 @@ Make sure to reach out to your event's sponsors, tell them about how it went and
 
 #### Inform participants where they can find the projects and each other
 
-The goal of Trans\*Code is to help trans and non-binary people interested in techonology build community, so we shouldn't leave them alone after the event. Share a link to a blog post or web page listing the projects worked on. (Hint: you might even have building such a list be one of the projects of the day.) Encourage sharing social media contact information - at the end of the 2016 London Trans\*Code everyone was invited to put their Twitter handles on a white board and people took pictures of it and shared them.
+The goal of Trans\*Code is to help trans and non-binary people interested in technology build community, so we shouldn't leave them alone after the event. Share a link to a blog post or web page listing the projects worked on. (Hint: you might even have building such a list be one of the projects of the day.) Encourage sharing social media contact information - at the end of the 2016 London Trans\*Code everyone was invited to put their Twitter handles on a white board and people took pictures of it and shared them.
 
 ### Evaluation form for participants
 
@@ -18,7 +18,7 @@ Make sure the forms are anonymous.
 
 #### Invite your participants to our global Trans*Code mailing list
 
-We want to build a global community of trans and non-binary folk and allies who help each other, empower each other and support each other. Consider inviting all of your participants and volunteers to [our Trans*Code mailing list](https://groups.google.com/forum/?hl=en-GB#!forum/transcode-team). [Let us know](mailto:info@trans-code.org) and we will work with you to invite them via the Google Groups interface.
+We want to build a global community of trans and non-binary folk and allies who help each other, empower each other, and support each other. Consider inviting all of your participants and volunteers to [our Trans*Code mailing list](https://groups.google.com/forum/?hl=en-GB#!forum/transcode-team). [Let us know](mailto:info@trans-code.org) and we will work with you to invite them via the Google Groups interface.
 
 #### Let us know how it went!
 
@@ -37,7 +37,7 @@ If you want to, you can also share everything in the Trans*Code Team group you a
 
 #### Consider writing a blog post
 
-Share with the world how awesome it was! Consider following [this retrospective](http://trans-code.org/looking-back-at-the-first-transcode/) in describing your  even, and then post either on your own blog, or let us know and we'll post it on ours. At least let us know about so we can share it as well. It's a nice way to say thank you to everyone, re-live memories and show your event to the world. If you're planning on organizing another Trans\*Code event in the future, this will also help you to attract sponsors -- you can just send them a link to convince them that Trans\*Code in your city is awesome!
+Share with the world how awesome it was! Consider following [this retrospective](http://trans-code.org/looking-back-at-the-first-transcode/) as you describe your event. Then post either on your own blog, or let us know and we'll post it on ours. At least let us know about so we can share it as well. It's a nice way to say thank you to everyone, re-live memories and show your event to the world. If you're planning to organize another Trans\*Code event in the future, this will also help you to attract sponsors -- you can just send them a link to convince them that your Trans\*Code event is awesome!
 ## Next editions
 
 If you plan to organize next edition of Trans*Code in your city, you will need to let us know, so that:

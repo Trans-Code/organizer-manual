@@ -14,6 +14,6 @@ In the past it has worked well to offer about 20% of the regular attendee ticket
 
 ## Capacity and Waiting lists
 
-You will probably have an upper limit on capacity based on the venue size. You will also need to have some limit for planning food. Since at least 10% of the registrans will not show up on the day of the event, it's usually okay to set the number of tickets at 10% over the maximum capacity. In fact, attendance rates can vary quite a bit, from about 50% on up to 80% or 90%.
+You will probably have an upper limit on capacity based on the venue size. You will also need to have some limit for planning food. Since at least 10% of the registrants will not show up on the day of the event, it's usually okay to set the number of tickets at 10% over the maximum capacity. In fact, attendance rates can vary quite a bit, from about 50% on up to 80% or 90%.
 
 It's not worth it to keep a waiting list.

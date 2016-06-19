@@ -16,13 +16,13 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 #### Participant Privacy & Photography
 
-Because it is not always safe or prudent for trans* people to be “out” in all aspects of their lives, please respect everyone’s privacy. As will be explained at the event, participants who do not want their photos taken will have special stickers on their name badges. Please respect  the privacy of all participants in this and all other respects.
+It is not always safe or prudent for trans* people to be “out” in all aspects of their lives, so please respect everyone’s privacy. Participants who don't want their photos taken will have special stickers on their name badges. Please respect the privacy of all participants in this and all other respects.
 
 #### We do NOT tolerate:
 
 * __Offensive jokes of any sort.__ Just don’t.
 * __Gender assumptions and policing:__ Do not assume gender. If you are unsure of someones preferred gender pronoun, address them by their name. * They might tell you and if they don’t, that is ok, too!
-* __Unsolicited Touch:__ Everyone’s physical space must be respected at all times. No touching of other people without their consent–this includes hugs (but I am sure a lot of people would love a hug if you asked first!).
+* __Unsolicited Touch:__ Everyone’s physical space must be respected at all times. No touching of other people without their consent (this includes hugs, but I'm sure a lot of people would love a hug if you asked first!).
 * __Bathroom Police:__ As part of creating a gendersafe space, Trans*Code events will always have gender neutral bathrooms.
 * __Hate Speech:__ We do not tolerate any conversations or presentations that involve racist thinking, transphobia, homophobia, classism, and other explicit forms of ignorance.
 
