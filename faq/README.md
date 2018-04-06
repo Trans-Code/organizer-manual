@@ -12,7 +12,7 @@ A: If you have any questions, we'd love to help you out. You can feel free to jo
 
 ### Organizing
 
-**Q: What topics should set for a Trans\*Code event?**
+**Q: What topics should be set for a Trans\*Code event?**
 
 A: In keeping with our philosophy, we suggest that the topics come from the people attending. In our view anything that trans/NB folk do and are interested in is fine. It's also more fun and interesting that way. 
 
