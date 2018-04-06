@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Step by step](step_by_step/README.md)
+* [Example Schedule](example_schedule/README.md)
 * [Environment](environment/README.md)
 * [Attendees](attendees/README.md)
 * [Promotion](promotion/README.md)
