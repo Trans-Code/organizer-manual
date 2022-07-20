@@ -7,7 +7,7 @@ When you first approach a conference, assuming that they're interested, you can 
 
 ## Conference tickets
 
-Some conferences can be very expensive, others are free. If you can arrange for free entrance to the conference for participants, great! Discount? Still good! Just crunch the numbers and see if you can make up the difference with sponsorship funds.
+Some conferences can be very expensive, others are free. If you can arrange for free entrance to the conference for participants, great! If not, at least try to make the Trans\*Code event free or nearly free for attendees.
 
 ## Space for the workshop
 
@@ -27,7 +27,7 @@ If you are partnering with a conference that already has a few hundred attendees
 
 ## Cross-promotion and online traction
 
-Conferences normally have a large-to-huge mailing list, countless followers on Twitter, and a [social media strategist](http://elitedaily.com/envision/these-20-photos-prove-that-you-take-your-job-title-way-too-seriously-photos/651099/). You can therefore leverage their online presence to call out for coaches, sponsors, or even participants (as in "tell your women friends about us so they can come to the conference too!").
+Conferences normally have a large-to-huge mailing list, countless followers on Twitter, and a [social media strategist](http://elitedaily.com/envision/these-20-photos-prove-that-you-take-your-job-title-way-too-seriously-photos/651099/). You can therefore leverage their online presence to call out for coaches, sponsors, or even participants (as in "tell your friends about us so they can come to the conference too!").
 
 ## Remote organising
 
@@ -36,7 +36,7 @@ Conferences normally have a large-to-huge mailing list, countless followers on T
 
 ## Lightning talks 
 
-If you can secure a Trans*Code lightning talk, they're a great way to introduce conference attendees to the project and broadcast a call to action. Check out the resources repository on GitHub for presentation templates!
+If you can secure a Trans\*Code lightning talk, they're a great way to introduce conference attendees to the project and broadcast a call to action. Check out the resources repository on GitHub for presentation templates!
 
 ## Sprint/hackfest
 

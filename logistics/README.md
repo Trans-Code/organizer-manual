@@ -1,6 +1,6 @@
 # Logistics
 
-There are several things that are important to remember when organizing a Trans*Code event. We won't try to explain everything in the smallest detail, but we will elaborate on some of most important things:
+There are several things that are important to remember when organizing a Trans\*Code event. We won't try to explain everything in the smallest detail, but we will elaborate on some of most important things:
 
 ## Venue
 
@@ -16,19 +16,19 @@ Remember that everyone will need power! Often the venue can offer you this, but 
 
 Internet is crucial, so ask your venue provider if they have tested the WiFi before. 
 
-It is possible that the venue will claim they can handle Internet traffic, but during the workshop it turns out they can't. It's a good idea to ask if they have previously hosted programming workshops for 100+ people. 
+It is possible that the venue will claim they can handle Internet traffic, but during the workshop it turns out they can't. It's a good idea to ask if they have previously hosted programming workshops for 50-100 people. 
 
 If you don't have confidence in the network, it might also be a good idea to have some backup. You can use mobile internet to create a hotspot for attendees if internet is not working properly. Make sure to check to see if there are problems with the Internet.
 
 ## Food
 
-Ideally, the venue for the event will also supply food. If they don't/can't you can look for other sponseIf your budget doesn't allow for this, don't worry too much. It's a free event, and people will be grateful to you anyway. Lunch is the most important meal, because you'll want to keep people energized and don't want to provide too much distraction.
+Ideally, the venue for the event will also supply food (always ask!). If they don't/can't you can look for other sponseIf your budget doesn't allow for this, don't worry too much. It's a free event, and people will be grateful to you anyway. Lunch is the most important meal, because you'll want to keep people energized and don't want to provide too much distraction.
 
 But if you can, it's awesome to do this:
 
 ### Breakfast
 
-Usually buying some pastries or donuts on the way to the venue is enough. Order coffee/tea from a catering company or buy some in the store.
+Usually buying some pastries or donuts on the way to the venue is enough. Order coffee/tea from a catering company or buy some in the store, if the venue doesn't have it available.
 
 ### Lunch
 
@@ -68,6 +68,6 @@ If you found an awesome design (picture, font, drawing, etc) you would love to u
 
 This is really nice to have, and sometimes you can get this kind of service for free if you have friends/friendly local people who want to support your initiative. Your venue might have a marketing department that could donate the time of their in-house photographer, so be sure to ask! It's a great memory to have some nice, professional photos or a video from the event. It also helps to use it as marketing material for your next event, plus you have something to show to the sponsors!
 
-Don't forget to ask attendees and coaches if they want their picture taken. Be sure to have some way of indicatingthose who want to be in the pictures, and those who don't. One simple way is to get some sticker dots to place on the name tags - a red dot can indicate that someone does not want their picture taken.
+Don't forget to ask attendees and coaches if they want their picture taken. Be sure to have some way of indicating those who want to be in the pictures, and those who don't. One simple way is to get some sticker dots to place on the name tags - a red dot can indicate that someone does not want their picture taken.
 
 If you have resources (money/people), then totally do it. It's worth it! 

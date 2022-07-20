@@ -6,7 +6,7 @@ You should start organizing at least 3 months before the event will take place. 
 
 The actual amount of work will be around 20-30 hours, so if you spread that over a 3 month period, you can totally do it in your free time. Organizing an event with a team is awesome but not mandatory. If you do have a team, it's a good idea to set a few rules on how you'll work together to avoid misunderstanding.
 
-Here is a [Trello board]https://trello.com/b/el8DHMGt/trans-code-template) that you can clone. This board should  help you keep straight everything you need to take care of while planning your event! To use the Trello board, follow these instructions: 
+Here is a [Trello board](https://trello.com/b/el8DHMGt/trans-code-template) that you can clone. This board should  help you keep straight everything you need to take care of while planning your event! To use the Trello board, follow these instructions: 
 
 1. Click "Show Menu" on the right-hand side 
 2. Under the Menu, click "More" 
@@ -24,15 +24,13 @@ Let's see how organizing a Trans*Code event looks on the timeline:
 - __Apply to the Trans*Code organization to register your event__
 - Announce a [website](../website/README.md), [Twitter or Facebook](../promotion/README.md)
 - [Start promotion of Trans*Code](../promotion/README.md)
-- [Start looking for sponsors](../sponsors/README.md)
 - [Start looking for a venue](../logistics/README.md)
 
 ### 2 months before
 
-- [Reach out to local press, universities, etc. to actively promote the event](../promotion/README.md)
+- [Reach out to local press, trans/LGNTIQ+ organisations, universities, etc. to actively promote the event](../promotion/README.md)
 - Secure a venue
 - Start looking for catering
-- [Still look for sponsors](../sponsors/README.md)
 
 ### 1 months before
 

@@ -4,7 +4,7 @@ Getting the word out about the event to find your attendees isn't difficult. To 
 
 ### Press
 
-One of the big aims of Trans*Code is to help tell positive stories of trans and non-binary people in tech. That’s why we like to engage the local press and highlight the participants and their enthusiasm. 
+One of the big aims of Trans\*Code is to help tell positive stories of trans and non-binary people in tech. That’s why we like to engage the local press and highlight the participants and their enthusiasm. 
 
 Write a press release (or ask us for help with that!), and prepare a list of local bloggers and journalists who write for women-focused magazines and simply send them an e-mail. Make sure you do that early enough that they still have time to write an article and print it (2-3 months ahead of the event is good enough). Also consider radio stations (both web and broadcast) that have shown an interest in LGBT issues.
 
@@ -30,8 +30,8 @@ Students and professors are a very active group of people who want to learn new 
 
 ### Local meetups and LGBT communities
 
-Go to your local technical meetups and invite them over to Trans*Code! Check out [meetup.com](http://meetup.com/) to identify your local meetups and communities. It's important as you speak to these groups to encourage the people there to pass the word to anyone they know who might be interested in Trans*Code. Even if no one at the meetup is trans or nonbinary, quite often they know of someone and can help spread the word.
+Go to your local technical meetups and invite them over to Trans\*Code! Check out [meetup.com](http://meetup.com/) to identify your local meetups and communities. It's important as you speak to these groups to encourage the people there to pass the word to anyone they know who might be interested in Trans\*Code. Even if no one at the meetup is trans or nonbinary, quite often they know of someone and can help spread the word.
 
 ### Recommendations
 
-In your registration form you can ask people to share the information about Trans*Code with others who might be interested.
+In your registration form you can ask people to share the information about Trans\*Code with others who might be interested.
