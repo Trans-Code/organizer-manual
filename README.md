@@ -4,6 +4,14 @@ If you are reading this, it means you are interested in organizing your own Tran
 
 This manual will give you an idea of how Trans*Code works, what you need to do, and how to get started. 
 
+------
+
+> This manual is based on the [Django Girls Organizer's Guide](https://organize.djangogirls.org/), and we thank them for giving permission (and using a CC license) to remix for Trans\*Code. 
+>
+> This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+
+------
+
 ## What is Trans*Code?
 
 Trans*Code is a hackday series that brings trans folk and allies together to build community and explore technological solutions to trans related issues.

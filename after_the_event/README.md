@@ -28,7 +28,7 @@ If you want to, you can share everything in the Trans*Code Team group you alread
 
 Share with the world how awesome it was! This list of questions maybe helpful:
 1. How many participants attended your event?
-2. How many coaches attended your event?
+2. What were some of the projects worked on?
 3. What was the most important thing you discovered during the workshop?
 
 Then post either on your own blog, or let us know and we'll post it on ours. At least let us know about so we can share it as well. It's a nice way to say thank you to everyone, re-live memories and show your event to the world. If you're planning to organize another Trans\*Code event in the future, this will also help you to attract sponsors -- you can just send them a link to convince them that your Trans\*Code event is awesome!
