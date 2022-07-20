@@ -39,7 +39,7 @@ Trans*Code events are always non-profit and free for participants if at all poss
 To use the Trans*Code name for your workshop, you need to follow these steps:
 * read this manual
 * have a Code of Conduct compatible with the Trans*Code Code of Conduct
-* apply to organize an event by emailing info@trans-code.org
+* let us know you want to organize an event by emailing info@trans.tech
 * wait for our response
 * you can start!
 
