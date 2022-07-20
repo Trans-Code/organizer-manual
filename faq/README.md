@@ -8,7 +8,7 @@ planning process has you confused!
 
 **Q: Help me, I'm stuck!**
 
-A: If you have any questions, we'd love to help you out. You can feel free to join our Google group forum and ask questions there [Google Groups](https://groups.google.com/forum/#!forum/transcode-team) or you can email us at info@trans-code.org.
+A: If you have any questions, we'd love to help you out. You can feel free to join our Google group forum and ask questions there [Google Groups](https://groups.google.com/forum/#!forum/transcode-team) or you can email us at info@trans.tech.
 
 ### Organizing
 
@@ -23,5 +23,4 @@ A: If someone has the interest, not knowing how to code shouldn't be an obstacle
 **Q: Do you provide swag for events?**
 
 A: We don't provide swag. We don't have a budget, so any extras like swag have to come from sponsors or friends. 
-
 
